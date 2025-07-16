@@ -76,7 +76,7 @@ I also support teams with:
 ## 🌐 Connect with Me
 
 - 📫 [Email](mailto:pravin7456@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/pravin-fernando-81339050/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pravin-fernando-81339050/)
 - 🧑‍💻 [GitHub](https://github.com/PravinFernando)
 
 ---
